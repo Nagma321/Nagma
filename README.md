@@ -1,9 +1,9 @@
-<h2 align="center">Hi there! 👋</h2>
-
-<h3 align="center">I'm Nagma R Nayak, an Engineering Student 💻</h3>
+<h2 align="center">Hi, I'm Nagma R Nayak 👋</h2>
+<p align="center">
+</p>
 
 <p align="center">
-  <img alt="Coding" width="80%" src="https://camo.githubusercontent.com/d399b5adccfc6ebac083d14c7825731b09e3244e274657546d2e4ad670e911bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
+  <img alt="Coding" width="700" src="https://camo.githubusercontent.com/d399b5adccfc6ebac083d14c7825731b09e3244e274657546d2e4ad670e911bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 </p>
 
 ---
@@ -18,27 +18,17 @@
 
 ### 👩‍💻 About Me:
 
-- 🎓 I'm an Engineering Student passionate about technology and development
-- 💻 I enjoy building web applications and exploring Machine Learning
-- 🌱 Currently improving my skills in Web Development, Machine Learning and DSA
+- 🎓 Engineering Student passionate about technology and development
+- 💻 Interested in Software Development, Web Technologies, and Machine Learning
+- 🌱 Currently strengthening my skills in Web Development, Machine Learning, and DSA
 - ❤️ Currently working on a Heart Disease Prediction System using Random Forest and Explainable AI
 - 📄 Developed an AI-Powered Resume Analyzer using Python and NLP
-- 💡 I enjoy solving coding problems and turning ideas into real-world projects
-- 🚀 Always curious to learn new technologies and improve my skills
+- 💡 Enjoy solving coding problems and building practical applications
+- 🚀 Continuously learning and exploring new technologies
 
 ---
 
-### 🐍 My Contribution Graph:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nagma321/Nagma/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagma321/Nagma/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nagma321/Nagma/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 💗 Let's get connected:
+### 💗 Let's Connect:
 
 <a href="https://www.linkedin.com/in/nagmanayak">
   <img src="https://img.shields.io/badge/LinkedIn-Nagma%20R%20Nayak-blue?style=flat&logo=linkedin">
